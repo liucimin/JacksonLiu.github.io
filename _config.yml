@@ -7,7 +7,7 @@ description: "Learn more.Do more."
 keyword: "Kubernetes,Service Mesh,Network,Cloud"
 url: "https://jacksonliu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liucimin/JacksonLiu.github.io.git" # you code repository
+github_repo: "https://github.com/liucimin/liucimin.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,7 +19,7 @@ sidebar-avatar: /img/sunwukong.jpg      # use absolute URL, seeing it's used in 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     forsythias
+zhihu_username:     forsythia.s
 github_username:    liucimin
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
